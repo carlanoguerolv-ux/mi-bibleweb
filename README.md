@@ -1,2 +1,2 @@
 # mi-bibleweb
-mi pagina werb
+mi pagina web
